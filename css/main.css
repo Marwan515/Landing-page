@@ -1,0 +1,98 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+    text-align: center;
+}
+
+.hdr {
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 12px;
+}
+
+.h10 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;    
+}
+
+.h20 {
+    display: flex;
+}
+
+.t1 {
+    font-size: 24px;
+    color: #F9FAF8;
+    padding-left: 3px;
+    padding-bottom: 7px;
+    align-self: flex-start;
+    justify-content: flex-start;
+}
+
+.bm {
+    width: 300px;
+}
+
+header, footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.qt {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+.hr1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+.sup {
+    display: flex;
+    background-color: #3882F6;
+    margin-bottom: 18px;
+}
+
+.btn2 {
+    border: 2px solid white;
+}
+
+.boxes {
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
+
+a:visited {
+    color: #F9FAF8;
+}
+
+a:hover {
+    color: #F9FAF8;
+    background-color: black;
+}
+
+.ims {
+    width: 250px;
+    height: 250px;
+}
+
+.nms {
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
