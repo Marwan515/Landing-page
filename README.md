@@ -1,2 +1,2 @@
 # Landing-page
-thsi is my landing page project
+this is my landing page project
